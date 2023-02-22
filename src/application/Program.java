@@ -45,17 +45,7 @@ public class Program {
 		catch(RuntimeException e) {
 			System.out.println("Unexpected error");
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 		sc.close();
 
 	}
